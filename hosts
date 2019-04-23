@@ -1,0 +1,4 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+10.207.140.16 devvm drmcyc-cuiw1-1-00.cec.lab.emc.com
+10.245.16.40  pxe pxe.trident
